@@ -2,38 +2,123 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Modulus of rigidity is defined as ratio of",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Long stress and long strain",
+        "b": "Shear stress and shear strain",
+        "c": "Volumetric stress and volumetric strain",
+        "d": "Lateral stress and lateral strain"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "What is the purpose of weighing head in this experiment?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Apply twisting moment",
+        "b": "Balance torque of drive unit",
+        "c": "Both a and b",
+        "d": "None of these"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "In the equation C=(T/θ)*(L/J); (T/θ) is",
+      "answers": {
+        "a": "Slope of graph of torque v/s twist",
+        "b": "Ratio of twist",
+        "c": "Yield point shear stress",
+        "d": "Polar moment of inertia"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The torsional rigidity of a shaft is expressed by the",
+      "answers": {
+        "a": "Maximum torque it can transmit",
+        "b": "Number of cycles it undergoes before failure",
+        "c": "Elastic limit up to which it resist torsion, shear and bending stress",
+        "d": "Torque required to produce a twist of one radian per unit length of shaft"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "The maximum twisting moment a shaft can resist is the product of permissible shear stress and",
+      "answers": {
+        "a": "Polar modulus",
+        "b": "Moment of inertia",
+        "c": "Modulus of rigidity",
+        "d": "Polar moment of inertia"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The ratio of strengths of solid to hollow shafts, both having outside diameter D and hollow inside diameter D/2 in torsion is",
+      "answers": {
+        "a": "1/4",
+        "b": "1/16",
+        "c": "15/16",
+        "d": "1/2"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "When 2 shafts of same length one of which is hollow transmit equal torques and have equal maximum stress, then they should have equal",
+      "answers": {
+        "a": "diameter",
+        "b": "polar moment of inertia",
+        "c": "angle of twist",
+        "d": "polar modulus"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
