@@ -89,10 +89,10 @@ The assumptions made while deriving the above relation are:
 
 1. Material is homogenous.
 2. Circular section remains circular and do not warp.
-   3.A plane section of a material perpendicular to its longitudinal axis remains plane and does not warp after the torque is applied.
-3. Shaft is loaded by a couple or torque in a plane perpendicular to the longitudinal axis of the plane.
-4. Shear stress is proportional to shear strain; it means that Hook's Law is applicable.
-5. In circular shafts subjected to torque shearing strain varies linearly.
+3. A plane section of a material perpendicular to its longitudinal axis remains plane and does not warp after the torque is applied.
+4. Shaft is loaded by a couple or torque in a plane perpendicular to the longitudinal axis of the plane.
+5. Shear stress is proportional to shear strain; it means that Hook's Law is applicable.
+6. In circular shafts subjected to torque shearing strain varies linearly.
 
 **Failure patterns in torsion**:
 
