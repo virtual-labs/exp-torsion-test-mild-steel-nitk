@@ -1,0 +1,141 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Modulus of rupture also known as",
+      "answers": {
+        "a": "Flexural strength",
+        "b": "Shear strength",
+        "c": "Impact strength",
+        "d": "Tensile strength"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "In the equation T/J=f/r=(Cθ/L); f is",
+      "answers": {
+        "a": "Modulus of rigidity",
+        "b": "Polar moment of inertia",
+        "c": "Shear stress",
+        "d": "Torque applied"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Which of the following is correct with respect to failure of specimen in this experiment",
+      "answers": {
+        "a": "Failure occurs at inclined angle of 45 degree",
+        "b": "Along a plane perpendicular to the axis",
+        "c": "Along a plane parallel to axis",
+        "d": "At inclined angle of 60 degree"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Where does the failure plain lies?",
+      "answers": {
+        "a": "Centre of specimen",
+        "b": "Upper region",
+        "c": "Both upper and lower region",
+        "d": "Lower region"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "A material capable of absorbing large amount of energy before fracture",
+      "answers": {
+        "a": "Toughness",
+        "b": "Ductility",
+        "c": "Resilience",
+        "d": "Plasticity"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "Value of shear stress which is induced in the shaft due to applied couple varies",
+      "answers": {
+        "a": "From maximum at centre to 0 at circumference",
+        "b": "From zero at centre to maximum at circumference",
+        "c": "From maximum at centre to minimum at circumference",
+        "d": "From minimum at centre to maximum at circumference"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Following assumption is not true in theory of pure torsion",
+      "answers": {
+        "a": "c/s of shaft , which is plane before twist remains plain after twist",
+        "b": "the shaft is of uniform circular section",
+        "c": "all radii get twisted due to torsion",
+        "d": "the twist along shaft is uniform"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Product of tangential force acting on shaft and its distance from axis of shaft is known as",
+      "answers": {
+        "a": "twisting moment",
+        "b": "bending moment",
+        "c": "flexural rigidity",
+        "d": "torsional rigidity"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    }
+  ]
+}
